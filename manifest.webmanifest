@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Gibi Gubae Offline Hub",
+  "name": "Gibi Gubae AI Hub",
   "short_name": "Gibi Gubae",
-  "description": "Offline organizer for a university Orthodox Tewahedo fellowship",
+  "description": "AI-assisted organizer for a university Orthodox Tewahedo fellowship",
   "lang": "am",
   "start_url": "./",
   "scope": "./",
